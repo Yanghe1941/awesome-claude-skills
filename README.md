@@ -273,7 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
-
+- [Yanghe1941/skills](https://github.com/Yanghe1941/skills) - 3 skills built from real agent failures: honest ETAs for long tasks (adaptive-eta), CN bill reconciliation for WeChat/Alipay/JD/CMB (cn-bill-parser), and WeChat Official Account drafting with a posting-cadence gate.
 
 ## 🤝 Contribution
 
